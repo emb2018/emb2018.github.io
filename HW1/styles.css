@@ -1,16 +1,20 @@
 /* Your CSS code goes in this file. */
 body {
-  font-family: "arial";
-  width: 960px;
-  margin: 20px auto
+  font-family: "calibri";
+  width: 900px;
+  margin: 40px auto
 }
 
 h1 { color:blue }
 
 h1{
   border: solid 1px grey; */
-  margin: 10px;
-  padding: 5px;
+  margin: 20px;
+  padding: 10px;
  }
 
-h2{ border: solid 2px blue;  }
+h2{ border-bottom: solid 2px grey;  }
+
+p.big {
+    line-height: 200%;
+}
