@@ -1,0 +1,7 @@
+/* Your CSS rules go here */
+body{ font-family: "arial";}
+.fa-amazon {color:red;}
+.jumbotron {background-image: url(https://www.w3schools.com/howto/img_fjords.jpg);
+background-size: cover;
+color:white;
+}
